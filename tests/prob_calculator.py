@@ -14,5 +14,5 @@ class Hat:
             
         return balls
 
-def experiment():
+def experiment(hat, expected_balls, num_balls_drawn, num_experiments):
     pass
