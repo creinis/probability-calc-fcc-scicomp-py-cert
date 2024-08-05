@@ -1,0 +1,3 @@
+
+class Hat:
+    pass
