@@ -1,3 +1,4 @@
+import random
 
 class Hat:
     def draw(self, num):
