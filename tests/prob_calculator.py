@@ -1,3 +1,7 @@
 
 class Hat:
-    pass
+    def draw(self, num):
+        balls = []
+        
+        return balls
+
