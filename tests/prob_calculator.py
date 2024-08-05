@@ -14,3 +14,5 @@ class Hat:
             
         return balls
 
+def experiment():
+    pass
